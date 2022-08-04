@@ -1,2 +1,2 @@
-# CursoPorgramacion
+# CursoProgramacion
 Curso Programación 1
